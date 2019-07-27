@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6067535f-5454-4345-b1d4-ab171539e221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/database.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -37,6 +34,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -60,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pipfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -80,15 +82,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -166,19 +159,19 @@
         <option value="$PROJECT_DIR$/models/user/decorators.py" />
         <option value="$PROJECT_DIR$/libs/mailgun.py" />
         <option value="$PROJECT_DIR$/Procfile" />
-        <option value="$PROJECT_DIR$/Pipfile" />
         <option value="$PROJECT_DIR$/uwsgi.ini" />
         <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/common/database.py" />
+        <option value="$PROJECT_DIR$/Pipfile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="92" />
-    <option name="y" value="77" />
+    <option name="x" value="157" />
+    <option name="y" value="87" />
     <option name="width" value="1419" />
-    <option name="height" value="1087" />
+    <option name="height" value="1270" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -351,7 +344,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="677" y="0" width="1419" height="1087" extended-state="0" />
+    <frame x="157" y="87" width="1419" height="1270" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49643221" visible="true" weight="0.34250543" />
@@ -359,14 +352,14 @@
       <window_info id="Favorites" order="2" sideWeight="0.5035678" side_tool="true" weight="0.18636721" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49818972" visible="true" weight="0.442348" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49818972" visible="true" weight="0.26297274" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49894404" weight="0.32227892" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32952547" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50181025" side_tool="true" visible="true" weight="0.442348" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50181025" side_tool="true" visible="true" weight="0.26297274" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32952547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -393,9 +386,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/learning.py" />
     <entry file="file://$USER_HOME$/.virtualenvs/pricing-service-fs56BV-5/Lib/site-packages/werkzeug/datastructures.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -691,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pipfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uwsgi.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -742,6 +725,16 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
